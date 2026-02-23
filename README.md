@@ -25,8 +25,5 @@ A simple and interactive web-based music player built using HTML, CSS, and JavaS
 ## 🌐 Live Demo
 https://ayushi-hi.github.io/my-music-player/
 
-## 📸 Screenshots
-(Add screenshots of your project here)
-
 ## 👩‍💻 Author
 Ayushi Singh
